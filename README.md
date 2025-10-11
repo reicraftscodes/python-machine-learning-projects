@@ -19,6 +19,7 @@ Each notebook is designed to be:
 
 ##  Core Skills Demonstrated
 - **ML/AI Topics**
+  - Hugging Face (Vision Transformers)
   - Machine Learning Algorithms
   - Deep Learning Algorithms/Architectures (CNNs, Transformers, RNNs .etc)
   - Natural Language Processing
@@ -27,9 +28,10 @@ Each notebook is designed to be:
   - Efficient Data Pipelines
   - Performance Benchmarking & Optimisation with CUDA (CPU vs GPU)
   - Exploratory Data Analysis (EDA)
- 
+
   **DevOps Practices**
   - Git, GitHub
   - Configuration Management
       - JSON
       - JSONPath
+  - HuggingFace Spaces
