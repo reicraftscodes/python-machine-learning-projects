@@ -3,7 +3,7 @@
 A repository for hands-on machine learning mini-projects, experiments and full projects:
 
 - [Multimodal Facial Emotion Recognition Using Deep Learning Models](https://github.com/reicraftscodes/group-4-dissertation)
-- [MachineLearning & Vision notebooks](https://github.com/reicraftscodes/machine-learning-vision-assessment)
+- [Machine Learning & Vision Workbook](https://github.com/reicraftscodes/machine-learning-vision-assessment)
 - [A Comparative Analysis of Simulated Annealing and Genetic Algorithm](https://github.com/reicraftscodes/algorithm-coursework)
 - [Insurance & Music Data Analysis via Machine Learning Models](https://github.com/reicraftscodes/ml-coursework)
 
