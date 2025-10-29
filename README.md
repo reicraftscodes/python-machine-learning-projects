@@ -1,11 +1,17 @@
 # 🧠 Python and Machine Learning Projects Portfolio
 
-A repository for hands-on machine learning mini-projects, experiments and full projects:
+A repository for hands-on machine learning projects:
 
+Dissertation
 - [Multimodal Facial Emotion Recognition Using Deep Learning Models](https://github.com/reicraftscodes/group-4-dissertation)
+
+Courseworks
 - [Machine Learning & Vision Workbook](https://github.com/reicraftscodes/machine-learning-vision-assessment)
 - [A Comparative Analysis of Simulated Annealing and Genetic Algorithm](https://github.com/reicraftscodes/algorithm-coursework)
 - [Insurance & Music Data Analysis via Machine Learning Models](https://github.com/reicraftscodes/ml-coursework)
+
+Mini projects
+- TBA
 
 Each notebook is designed to be:
 - Reproducible
