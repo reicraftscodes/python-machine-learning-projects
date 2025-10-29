@@ -18,7 +18,7 @@ Each notebook is designed to be:
 - Educational
 - Scalable
 
-### Mathematics for ML
+## Mathematics for ML
 - Linear Algebra
 - Probability & Statistics
 - Integral Calculus
