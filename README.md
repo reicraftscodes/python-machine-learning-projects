@@ -1,17 +1,12 @@
 # 🧠 Python and Machine Learning Projects Portfolio
 
-A repository for hands-on machine learning projects:
+A repository for hands-on pytjon, ai and machine learning projects:
 
-Dissertation
+## Machine Learning & AI projects
 - [Multimodal Facial Emotion Recognition Using Deep Learning Models](https://github.com/reicraftscodes/group-4-dissertation)
-
-Courseworks
 - [Machine Learning & Vision Workbook](https://github.com/reicraftscodes/machine-learning-vision-assessment)
 - [A Comparative Analysis of Simulated Annealing and Genetic Algorithm](https://github.com/reicraftscodes/algorithm-coursework)
 - [Insurance & Music Data Analysis via Machine Learning Models](https://github.com/reicraftscodes/ml-coursework)
-
-Mini projects
-- TBA
 
 Each notebook is designed to be:
 - Reproducible
@@ -23,7 +18,14 @@ Each notebook is designed to be:
 - Probability & Statistics
 - Integral Calculus
 
-##  Core Skills Demonstrated
+## Python Web Development Projects
+- [Skills Sharing Application](https://github.com/reicraftscodes/newport-business-website)
+
+#  Core Skills Demonstrated
+- **Web Development**
+  - Flask Framework
+  - Jinja (Template Engine)
+    
 - **ML/AI Topics**
   - Hugging Face (Vision Transformers)
   - Machine Learning Algorithms
